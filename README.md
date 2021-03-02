@@ -37,4 +37,3 @@ Files-
 
 6. RestAPI.pdf - Document describing all the rest endpoints for user and timeline services.
 
-
