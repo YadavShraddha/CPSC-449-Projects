@@ -1,5 +1,4 @@
-/* Name - Shraddha Yadav [CWID - 887352110]
- Email - shraddhayadav@csu.fullerton.edu
+/* Name - Shraddha Yadav 
  CPSC 449 Project - 2
  */
 
