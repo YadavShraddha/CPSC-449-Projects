@@ -1,6 +1,4 @@
-# Name - Shraddha Yadav [CWID - 887352110]
-# Email - shraddhayadav@csu.fullerton.edu
-# CPSC 449 Project - 2
+# Name - Shraddha Yadav 
 
 from flask import Flask, jsonify,request,make_response,abort
 from werkzeug.security import generate_password_hash, check_password_hash
