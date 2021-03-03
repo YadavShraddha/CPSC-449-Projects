@@ -1,8 +1,4 @@
-# Name - Shraddha Yadav [CWID - 887352110]
-# Email - shraddhayadav@csu.fullerton.edu
-# CPSC 449 Project - 2
-
-
+# Name - Shraddha Yadav
 # Add custom command init to create and populate the test database
 
 import click
